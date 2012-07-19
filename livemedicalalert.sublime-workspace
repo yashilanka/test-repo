@@ -1,0 +1,300 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ur",
+				"url()"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"ul",
+				"url()"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"mar",
+				"margin:   (property)"
+			],
+			[
+				"pos",
+				"background-position"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 336.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"fetch",
+				"Fetch"
+			],
+			[
+				"",
+				"Abacus: align selection"
+			]
+		],
+		"width": 410.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/web_project/livemedicalalert/livemedicalalert.sublime-project",
+		"/C/Users/Yashi/Desktop/Code Project/robots.txt",
+		"/C/Users/Yashi/Desktop/Code Project/404.html",
+		"/C/Users/Yashi/Desktop/publish/index.html",
+		"/C/Users/Yashi/Desktop/.htaccess",
+		"/D/web_project/livemedicalalert/publish/css/dbfb25e.css",
+		"/D/web_project/livemedicalalert/publish/humans.txt",
+		"/D/web_project/livemedicalalert/publish/.htaccess",
+		"/D/web_project/temp.js",
+		"/D/web_project/main - Copy.js",
+		"/D/web_project/livemedicalalert/publish/js/3d3026f.js",
+		"/D/web_project/livemedicalalert/js/plugins.js",
+		"/D/web_project/livemedicalalert/js/main.js",
+		"/D/web_project/livemedicalalert/css/my.min.css",
+		"/C/Users/Yashi/Desktop/codecanyon-922100-layerslider-the-parallax-effect-slider/examples/example1.html",
+		"/D/web_project/livemedicalalert/css/skins/my/skin.css",
+		"/D/web_project/livemedicalalert/css/my - Copy.css",
+		"/D/web_project/livemedicalalert/img/security.css",
+		"/C/Users/Yashi/Desktop/liimeBar/liimeBar/liimebar-an-improved-scroll-bar-for-your-website/liimeBar_1.0/jquery.liimeBar.min.js",
+		"/C/Users/Yashi/Desktop/liimeBar/liimeBar/liimebar-an-improved-scroll-bar-for-your-website/liimeBar_1.0/liimeBar.css",
+		"/C/Users/Yashi/Desktop/liimeBar/liimeBar/liimebar-an-improved-scroll-bar-for-your-website/liimeBar_1.0/jquery.mousewheel.min.js",
+		"/C/Users/Yashi/Desktop/liimeBar/liimeBar/liimebar-an-improved-scroll-bar-for-your-website/liimeBar_1.0/instructions.html",
+		"/D/web_project/livemedicalalert/img/download.css",
+		"/C/Users/Yashi/Desktop/spamhole-0.4/spamhole/notes.txt",
+		"/C/Users/Yashi/Desktop/colorbox/colorbox/example4/colorbox.css",
+		"/C/Users/Yashi/Desktop/colorbox/colorbox/colorbox/jquery.colorbox-min.js",
+		"/C/Users/Yashi/Desktop/colorbox/colorbox/example4/index.html",
+		"/C/Users/Yashi/Desktop/demo/styles.css",
+		"/C/Users/Yashi/Desktop/tipTipv13/tipTip.css",
+		"/C/Users/Yashi/Desktop/nivo-slider3.0.1/nivo-slider/jquery.nivo.slider.pack.js",
+		"/C/Users/Yashi/Desktop/nivo-slider3.0.1/nivo-slider/nivo-slider.css",
+		"/C/Users/Yashi/Desktop/nivo-slider3.0.1/nivo-slider/demo/demo.html",
+		"/C/Users/Yashi/Desktop/tipTipv13/jquery.tipTip.minified.js",
+		"/C/Users/Yashi/Desktop/tipTipv13/tipTip.min.css",
+		"/C/Users/Yashi/Desktop/WM_CC-CSS3_Shadow_Pack/WM_CC-CSS3 Shadow Pack/css3_shadow_pack/Source/shadows.css",
+		"/C/Users/Yashi/Desktop/WM_CC-CSS3_Shadow_Pack/WM_CC-CSS3 Shadow Pack/css3_shadow_pack/Source/Demos/Fold Shadow/style.css",
+		"/C/Users/Yashi/Desktop/WM_CC-CSS3_Shadow_Pack/WM_CC-CSS3 Shadow Pack/Info.txt",
+		"/C/Users/Yashi/Desktop/test/test/build_20120707020154/stylesheets/grid.css",
+		"/C/Users/Yashi/AppData/Local/Temp/Rar$DIa0.856/shadows.css",
+		"/C/Users/Yashi/Desktop/test/test/build_20120707020053/stylesheets/grid.css",
+		"/C/Users/Yashi/Desktop/test/test/build_20120707020053/stylesheets/text.css",
+		"/C/Users/Yashi/Desktop/test/test/build_20120707020154/stylesheets/text.css",
+		"/C/Users/Yashi/Desktop/steel_dynamic/build/config/project.properties",
+		"/C/Users/Yashi/Desktop/test/test/sass/grid.sass",
+		"/C/Users/Yashi/Desktop/boilerplate/ssssss/stylesheets/style.css",
+		"/C/Users/Yashi/Desktop/boilerplate/ssssss/sass/style.scss",
+		"/C/Users/Yashi/Desktop/960/mytest/sass/grid.scss",
+		"/C/Users/Yashi/Desktop/960/mytest/sass/text.scss",
+		"/C/Users/Yashi/Desktop/960/mytest/stylesheets/grid.css",
+		"/C/Users/Yashi/Desktop/960/mytest/config.rb",
+		"/C/Users/Yashi/Desktop/960/mytest/stylesheets/text.css",
+		"/C/Users/Yashi/Desktop/myscout/sass/screen.scss",
+		"/C/Users/Yashi/Desktop/myscout/stylesheets/screen.css",
+		"/C/Users/Yashi/AppData/Roaming/Sublime Text 2/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/Yashi/Desktop/myscout/scss/style.scss",
+		"/C/Users/Yashi/Desktop/codecanyon-922100-layerslider-the-parallax-effect-slider/assets/css/style.css",
+		"/C/Users/Yashi/Desktop/codecanyon-922100-layerslider-the-parallax-effect-slider/layerslider/skins/defaultskin/skin.css",
+		"/C/Users/Yashi/Desktop/codecanyon-922100-layerslider-the-parallax-effect-slider/layerslider/css/layerslider.css",
+		"/C/Users/Yashi/Desktop/codecanyon-922100-layerslider-the-parallax-effect-slider/layerslider/jQuery/jquery-easing-1.3.js",
+		"/C/Users/Yashi/Desktop/codecanyon-922100-layerslider-the-parallax-effect-slider/layerslider/js/layerslider.kreaturamedia.jquery-min.js",
+		"/C/Users/Yashi/Desktop/superfish-1.4.8/superfish-1.4.8/example.html",
+		"/C/Users/Yashi/Desktop/superfish-1.4.8/superfish-1.4.8/css/superfish-navbar.css",
+		"/D/web_project/livemedicalalert/css/main.css",
+		"/D/web_project/livemedicalalert/js/PIE.js",
+		"/C/Users/Yashi/Desktop/PIE-1.0.0/PIE.php",
+		"/D/web_project/livemedicalalert/PIE.php",
+		"/D/web_project/livemedicalalert/css/layout.min.css",
+		"/C/Users/Yashi/Desktop/superfish-1.4.8/superfish-1.4.8/css/superfish.css",
+		"/C/Users/Yashi/Desktop/foundation.custom/javascripts/foundation.js",
+		"/C/Users/Yashi/Desktop/superfish-1.4.8/superfish-1.4.8/js/superfish.js",
+		"/C/Users/Yashi/Desktop/superfish-1.4.8/superfish-1.4.8/js/supersubs.js",
+		"/C/Users/Yashi/Desktop/superfish-1.4.8/superfish-1.4.8/js/hoverIntent.js",
+		"/C/Users/Yashi/Desktop/foundation.custom/stylesheets/foundation.css",
+		"/C/Users/Yashi/Desktop/foundation.custom/index.html",
+		"/D/web_project/livemedicalalert/img/sprite.css",
+		"/C/Users/Yashi/Desktop/foundation3/foundation3/stylesheets/foundation.css",
+		"/D/web_project/speakingsrilanka/css/main.css",
+		"/C/Users/Yashi/Desktop/layout.min.css",
+		"/C/Users/Yashi/Desktop/nathansmith-960-Grid-System-b0c5b98/nathansmith-960-Grid-System-b0c5b98/code/css/960_12_col.css",
+		"/D/web_project/livemedicalalert/index.html",
+		"/D/web_project/livemedicalalert/css/my.css",
+		"/C/Users/Yashi/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Yashi/AppData/Roaming/Sublime Text 2/Packages/ColorPicker/Default (Windows).sublime-keymap",
+		"/C/Users/Yashi/Desktop/mytest/css/my.css",
+		"/C/Users/Yashi/Desktop/mytest/livemedicalalert/css/my.css",
+		"/C/Users/Yashi/Desktop/foundation3/foundation3/index.html",
+		"/C/Users/Yashi/Desktop/foundation3/foundation3/javascripts/jquery.customforms.js",
+		"/C/Users/Yashi/Desktop/foundation3/foundation3/javascripts/app.js",
+		"/C/Users/Yashi/Desktop/foundation3/foundation3/javascripts/jquery.reveal.js",
+		"/C/Users/Yashi/Desktop/foundation3/foundation3/javascripts/jquery.placeholder.min.js",
+		"/C/Users/Yashi/Desktop/foundation3/foundation3/javascripts/modernizr.foundation.js",
+		"/C/Users/Yashi/Desktop/foundation3/foundation3/stylesheets/app.css",
+		"/C/Users/Yashi/Desktop/foundation3/foundation3/stylesheets/ie.css",
+		"/C/Users/Yashi/Desktop/h5bp-html5-boilerplate-v3.0.2stripped-0-g5f341a3/h5bp-html5-boilerplate-359a13f/js/script.js",
+		"/C/Users/Yashi/Desktop/h5bp-html5-boilerplate-v3.0.2stripped-0-g5f341a3/h5bp-html5-boilerplate-359a13f/js/plugins.js",
+		"/C/Users/Yashi/Desktop/h5bp-html5-boilerplate-v3.0.2stripped-0-g5f341a3/h5bp-html5-boilerplate-359a13f/index.html",
+		"/D/web_project/livemedicalalert/humans.txt",
+		"/D/web_project/livemedicalalert/publish/index.html",
+		"/D/Web Project/livemedicalallert/build/readme.md",
+		"/C/Users/Yashi/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/C/Users/Yashi/Desktop/mytest/index.html",
+		"/C/Users/Yashi/Desktop/mytest/css/style.css",
+		"/C/Users/Yashi/AppData/Roaming/Sublime Text 2/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/C/Users/Yashi/AppData/Roaming/Sublime Text 2/Packages/Vintage/Default (Windows).sublime-keymap",
+		"/C/Users/Yashi/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/C/Users/Yashi/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Yashi/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Yashi/Desktop/sublime_test.html",
+		"/C/Users/Yashi/AppData/Roaming/Sublime Text 2/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/Yashi/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Yashi/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Yashi/AppData/Roaming/Sublime Text 2/Packages/Theme - Soda/README.md",
+		"/C/Users/Yashi/Desktop/layerslider-the-parallax-effect-slider-licence.txt",
+		"/C/Users/Yashi/Desktop/Ultimate Client Manager/Ultimate Client Manager/ultimate-client-manager-source/Admin-README.txt",
+		"/D/wamp/www/widget_admin/includes/config.sample.php",
+		"/C/Users/Yashi/AppData/Roaming/Sublime Text 2/Packages/User/zen-coding.sublime-settings",
+		"/C/Users/Yashi/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/README.creole",
+		"/C/Users/Yashi/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/zen-coding.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"grid",
+			"'",
+			"'html': {\n        'extends': 'common',\n        'filters': 'html',\n        'snippets': {\n            'cc:ie6': '<!--[if lte IE 6]>\\n\\t${child}|\\n<![endif]-->',\n            'cc:ie': '<!--[if IE]>\\n\\t${child}|\\n<![endif]-->',\n            'cc:noie': '<!--[if !IE]><!-->\\n\\t${child}|\\n<!--<![endif]-->',\n            'html:4t': '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\\n' +\n                    '<html lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta http-equiv=\"Content-Type\" content=\"text/html;charset=${charset}\">\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>',\n\n            'html:4s': '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\\n' +\n                    '<html lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta http-equiv=\"Content-Type\" content=\"text/html;charset=${charset}\">\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>',\n\n            'html:xt': '<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\\n' +\n                    '<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta http-equiv=\"Content-Type\" content=\"text/html;charset=${charset}\" />\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>',\n\n            'html:xs': '<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\\n' +\n                    '<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta http-equiv=\"Content-Type\" content=\"text/html;charset=${charset}\" />\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>',\n\n            'html:xxs': '<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.1//EN\" \"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd\">\\n' +\n                    '<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta http-equiv=\"Content-Type\" content=\"text/html;charset=${charset}\" />\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>',\n\n            'html:5': '<!DOCTYPE HTML>\\n' +\n                    '<html lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta charset=\"${charset}\">\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"live\n        'extends': 'common',\n        'filters': 'html',\n        'snippets': {\n            'cc:ie6': '<!--[if lte IE 6]>\\n\\t${child}|\\n<![endif]-->',\n            'cc:ie': '<!--[if IE]>\\n\\t${child}|\\n<![endif]-->',\n            'cc:noie': '<!--[if !IE]><!-->\\n\\t${child}|\\n<!--<![endif]-->',\n            'html:4t': '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\\n' +\n                    '<html lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta http-equiv=\"Content-Type\" content=\"text/html;charset=${charset}\">\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>',\n\n            'html:4s': '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\\n' +\n                    '<html lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta http-equiv=\"Content-Type\" content=\"text/html;charset=${charset}\">\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>',\n\n            'html:xt': '<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\\n' +\n                    '<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta http-equiv=\"Content-Type\" content=\"text/html;charset=${charset}\" />\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>',\n\n            'html:xs': '<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\\n' +\n                    '<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta http-equiv=\"Content-Type\" content=\"text/html;charset=${charset}\" />\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>',\n\n            'html:xxs': '<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.1//EN\" \"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd\">\\n' +\n                    '<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta http-equiv=\"Content-Type\" content=\"text/html;charset=${charset}\" />\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>',\n\n            'html:5': '<!DOCTYPE HTML>\\n' +\n                    '<html lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta charset=\"${charset}\">\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>'",
+			"\"\n        'extends': 'common',\n        'filters': 'html',\n        'snippets': {\n            'cc:ie6': '<!--[if lte IE 6]>\\n\\t${child}|\\n<![endif]-->',\n            'cc:ie': '<!--[if IE]>\\n\\t${child}|\\n<![endif]-->',\n            'cc:noie': '<!--[if !IE]><!-->\\n\\t${child}|\\n<!--<![endif]-->',\n            'html:4t': '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\\n' +\n                    '<html lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta http-equiv=\"Content-Type\" content=\"text/html;charset=${charset}\">\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>',\n\n            'html:4s': '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\\n' +\n                    '<html lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta http-equiv=\"Content-Type\" content=\"text/html;charset=${charset}\">\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>',\n\n            'html:xt': '<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\\n' +\n                    '<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta http-equiv=\"Content-Type\" content=\"text/html;charset=${charset}\" />\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>',\n\n            'html:xs': '<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\\n' +\n                    '<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta http-equiv=\"Content-Type\" content=\"text/html;charset=${charset}\" />\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>',\n\n            'html:xxs': '<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.1//EN\" \"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd\">\\n' +\n                    '<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta http-equiv=\"Content-Type\" content=\"text/html;charset=${charset}\" />\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>',\n\n            'html:5': '<!DOCTYPE HTML>\\n' +\n                    '<html lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta charset=\"${charset}\">\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>'",
+			"'html': {\n        'extends': 'common',\n        'filters': 'html',\n        'snippets': {\n            'cc:ie6': '<!--[if lte IE 6]>\\n\\t${child}|\\n<![endif]-->',\n            'cc:ie': '<!--[if IE]>\\n\\t${child}|\\n<![endif]-->',\n            'cc:noie': '<!--[if !IE]><!-->\\n\\t${child}|\\n<!--<![endif]-->',\n            'html:4t': '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\\n' +\n                    '<html lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta http-equiv=\"Content-Type\" content=\"text/html;charset=${charset}\">\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>',\n\n            'html:4s': '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\\n' +\n                    '<html lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta http-equiv=\"Content-Type\" content=\"text/html;charset=${charset}\">\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>',\n\n            'html:xt': '<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\\n' +\n                    '<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta http-equiv=\"Content-Type\" content=\"text/html;charset=${charset}\" />\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>',\n\n            'html:xs': '<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\\n' +\n                    '<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta http-equiv=\"Content-Type\" content=\"text/html;charset=${charset}\" />\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>',\n\n            'html:xxs': '<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.1//EN\" \"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd\">\\n' +\n                    '<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta http-equiv=\"Content-Type\" content=\"text/html;charset=${charset}\" />\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>',\n\n            'html:5': '<!DOCTYPE HTML>\\n' +\n                    '<html lang=\"${lang}\">\\n' +\n                    '<head>\\n' +\n                    '   <meta charset=\"${charset}\">\\n' +\n                    '   <title></title>\\n' +\n                    '</head>\\n' +\n                    '<body>\\n\\t${child}|\\n</body>\\n' +\n                    '</html>'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 145.0,
+	"status_bar_visible": true
+}
