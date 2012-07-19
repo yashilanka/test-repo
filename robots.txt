@@ -1,0 +1,13 @@
+#Live Support Rhino Robots File
+#Last change NO 02112011
+
+User-agent: *
+Disallow: cache/
+Disallow: include/
+Disallow: class/
+Disallow: css/
+Disallow: operator/
+Disallow: lang/
+Disallow: js/
+Disallow: css/
+Disallow: files/
